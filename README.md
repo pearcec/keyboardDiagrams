@@ -7,6 +7,8 @@ To use the plugin install
 * https://www.fontspace.com/keyboard-chord-diagram-font-f25876 by Jochen Pietsch (license freeware)
 * unzip package in Plugins folder
 
+![Screenshot](./screenshot.png)
+
 ## CREDITS
 
 Code copied from https://musescore.org/en/project/piano-keyboard-diagram (piersyl).  Took their awesome work
